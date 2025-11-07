@@ -1,4 +1,4 @@
-ALL ABOUT MY  Face and Hand Gesture Recognition Model
+All About T MY  Face and Hand Gesture Recognition Model
 
 This project is a real-time face and hand gesture recognition system developed using Python, 
 MediaPipe, and OpenCV. It detects both facial expressions and hand gestures simultaneously from 
